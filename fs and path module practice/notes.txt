@@ -1,0 +1,2 @@
+Hello Node!
+Today i learned about how to data append in file using node js
